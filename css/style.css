@@ -261,14 +261,14 @@ header .nav-bar{
 
 
   .bg1{
-      background-image: url(../images/gas-banner.jpg);
+      background-image: url(./images/gas-banner.jpg);
       height: 100%;
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
   }
   .bg2{
-    background-image: url(../images/Bulb-banner.jpg);
+    background-image: url(./images/Bulb-banner.jpg);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -276,7 +276,7 @@ header .nav-bar{
 
   }
   .bg3{
-    background-image: url(../images/plumber-baner.jpg);
+    background-image: url(./images/plumber-baner.jpg);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -284,7 +284,7 @@ header .nav-bar{
 
   }
   .bg4{
-    background-image: url(../images/remonty-baner.jpg);
+    background-image: url(./images/remonty-baner.jpg);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
